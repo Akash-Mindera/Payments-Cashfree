@@ -1,0 +1,12 @@
+.pagewrapper-div {
+ display: flex;
+ align-items: flex-start;
+}
+
+.pagewrapper-div-left {
+ flex-basis:224px;
+}
+
+.pagewrapper-div-right {
+ flex-basis: calc(100% - 224px);
+}

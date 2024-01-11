@@ -1,0 +1,10 @@
+.navbar-header-content {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+
+.store-logo-text{
+ display: flex;
+ gap: 12px;
+}
